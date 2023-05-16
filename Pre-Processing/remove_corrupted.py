@@ -2,7 +2,7 @@ import os
 import cv2
 import numpy as np
 
-path = "./GitHub/LeafClassification-AN2DL/Data/dataset_no_corrupted"
+path = "C:/Users/kekko/OneDrive/Documenti/GitHub/Leaf Classification/Data/dataset_no_corrupted"
 training = path + "/training"
 
 # First we look for images with an anomalous number of black pixels and manually inspect them to identify the corrupted ones

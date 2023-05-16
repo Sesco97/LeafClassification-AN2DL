@@ -1,7 +1,7 @@
 import os
 import random
 
-path = "./GitHub/LeafClassification-AN2DL/Data/dataset_no_corrupted"
+path = "C:/Users/kekko/OneDrive/Documenti/GitHub/Leaf Classification/Data/dataset_no_corrupted"
 training = path + "/training"
 validation = path + "/validation"
 seed = 69
